@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;myrestful&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../methed_funcs" />
+      <root url="file://$PROJECT_DIR$/../../interface" />
+      <root url="file://$PROJECT_DIR$/../../klook" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../demo" />
+      <root url="file://$PROJECT_DIR$/../../restgomysql" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../methed_funcs" />
+      <root url="file://$PROJECT_DIR$/../../interface" />
+      <root url="file://$PROJECT_DIR$/../../klook" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../demo" />
+      <root url="file://$PROJECT_DIR$/../../restgomysql" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
