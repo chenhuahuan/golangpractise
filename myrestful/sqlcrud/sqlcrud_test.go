@@ -37,7 +37,12 @@ func TestGetUserByID(t *testing.T) {
 				userID:"5",
 			},
 		},
-
+		{	name:"huahuan6",want:"huahuan6",wantErr:false,
+			args:args{
+				db:func (db *sql.DB,err error) *sql.DB {if err != nil{t.Errorf("sql.Open error inside TestGetUserByID: %v", err.Error())}; return db}(sql.Open("mysql", "admin:123321@tcp(139.199.152.130:3306)/mydb")),
+				userID:"6",
+			},
+		},
 
 	}
 	for _, tt := range tests {
