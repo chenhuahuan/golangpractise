@@ -10,7 +10,7 @@ import (
 
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/gorilla/mux"
-	"demo/myrestful/sqlcrud"
+	"golangpractise/myrestful/sqlcrud"
 )
 
 
@@ -22,7 +22,7 @@ func dispatchHandler(response http.ResponseWriter, request *http.Request) {
 	var result string
 
 	//sql Open should only once in this function.
-	db, err := sql.Open("mysql", "admin:123321@tcp(139.199.152.130:3306)/mydb")
+	db, err := sql.Open("mysql", "root:sees7&chanting@tcp(localhost:3306)/mydb")
 	if err != nil {
 		errSQL := fmt.Errorf("SQL Error on sql.Open: %v", err)
 		log.Println(errSQL.Error())

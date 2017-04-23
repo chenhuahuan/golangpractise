@@ -29,17 +29,17 @@ func TestGetUserByID(t *testing.T) {
 	}{
 	// TODO: Add test cases.
 		{	name:"huahuan4",want:"huahuan4",wantErr:false,
-			args:args{db:func (db *sql.DB,err error) *sql.DB {return db}(sql.Open("mysql", "admin:123321@tcp(139.199.152.130:3306)/mydb")),userID:"4"},
+			args:args{db:func (db *sql.DB,err error) *sql.DB {return db}(sql.Open("mysql", "root:sees7&chanting@tcp(localhost:3306)/mydb")),userID:"4"},
 		},
 		{	name:"huahuan5",want:"huahuan5",wantErr:false,
 			args:args{
-				db:func (db *sql.DB,err error) *sql.DB {if err != nil{t.Errorf("sql.Open error inside TestGetUserByID: %v", err.Error())}; return db}(sql.Open("mysql", "admin:123321@tcp(139.199.152.130:3306)/mydb")),
+				db:func (db *sql.DB,err error) *sql.DB {if err != nil{t.Errorf("sql.Open error inside TestGetUserByID: %v", err.Error())}; return db}(sql.Open("mysql", "root:sees7&chanting@tcp(localhost:3306)/mydb")),
 				userID:"5",
 			},
 		},
 		{	name:"huahuan6",want:"huahuan6",wantErr:false,
 			args:args{
-				db:func (db *sql.DB,err error) *sql.DB {if err != nil{t.Errorf("sql.Open error inside TestGetUserByID: %v", err.Error())}; return db}(sql.Open("mysql", "admin:123321@tcp(139.199.152.130:3306)/mydb")),
+				db:func (db *sql.DB,err error) *sql.DB {if err != nil{t.Errorf("sql.Open error inside TestGetUserByID: %v", err.Error())}; return db}(sql.Open("mysql", "root:sees7&chanting@tcp(localhost:3306)/mydb")),
 				userID:"6",
 			},
 		},
