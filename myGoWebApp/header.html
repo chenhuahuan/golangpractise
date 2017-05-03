@@ -1,0 +1,25 @@
+{{ define "header" }}
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{.Title}}</title>
+        <link rel="stylesheet" href="./bootstrap-3.3.7/dist/css/bootstrap.min.css" type="text/css">
+        <link rel="stylesheet" href="./bootstrap-3.3.7/dist/js/bootstrap.min.js">
+        <style type="text/css">
+ body {padding-bottom: 70px;}
+ .content {margin:10px;}
+        </style>
+    </head>
+    <body>
+        <nav class="navbar navbar-default" role="navigation">
+ <div class="navbar-header">
+ <a class="navbar-brand" href="http://www.toutiao.com/">Go </a>
+ </div>
+ <div class="collapse navbar-collapse navbar-ex1-collapse">  
+ <ul class="nav navbar-nav">
+ <li><a href="http://www.toutiao.com/">Main</a></li>
+ <li><a href="http://www.toutiao.com/about">About</a></li>
+ </ul>
+ </div>
+        </nav>
+{{ end }}
