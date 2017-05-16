@@ -15,6 +15,12 @@ type Context struct{
 }
 
 
+func vueBootstrap(w http.ResponseWriter,req *http.Request){
+
+	context := &Context{Title:"vueBootsteap",StaticDir:StaticDir}
+	render(w,"vuejs_bootstrap_demo",context)
+}
+
 func home(w http.ResponseWriter,req *http.Request){
 
 	context := &Context{Title:"Homepage",StaticDir:StaticDir}
@@ -60,6 +66,7 @@ func main(){
 	http.HandleFunc("/",home)
 	http.HandleFunc("/about",about)
 	http.HandleFunc("/base",base)
+	http.HandleFunc("/vueBootstrap",vueBootstrap)
 
 	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir(StaticDir))))
 

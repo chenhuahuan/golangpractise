@@ -1,420 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="116b792b-d393-4d38-8e8a-700a53f6a936" name="Default" comment="GoProWeb: It's a good example, successful project that can run the web app ON Bootstrap.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/docs/assets/img/sass-less.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/flash/ZeroClipboard.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/img/components.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/img/devices.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/img/expo-lyft.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/img/expo-newsweek.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/img/expo-riot.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/img/expo-vogue.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/img/sass-less.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/screenshots/blog.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/screenshots/carousel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/screenshots/cover.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/screenshots/dashboard.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/screenshots/equal-height-columns.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/screenshots/grid.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/screenshots/jumbotron-narrow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/screenshots/jumbotron.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/screenshots/justified-nav.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/screenshots/navbar-fixed.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/screenshots/navbar-static.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/screenshots/navbar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/screenshots/non-responsive.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/screenshots/offcanvas.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/screenshots/sign-in.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/screenshots/starter-template.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/screenshots/sticky-footer-navbar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/screenshots/sticky-footer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/screenshots/theme.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/GOPATH__klook_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/dist/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/dist/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/dist/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/dist/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/dist/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/docs/assets/css/ie10-viewport-bug-workaround.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/docs/assets/css/src/docs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/docs/assets/css/src/pygments-manni.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/docs/assets/js/customize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/docs/assets/js/ie8-responsive-file-warning.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/docs/assets/js/raw-files.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/docs/assets/js/src/customizer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/docs/assets/js/vendor/Blob.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/docs/assets/js/vendor/FileSaver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/docs/assets/js/vendor/ZeroClipboard.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/docs/assets/js/vendor/autoprefixer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/docs/assets/js/vendor/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/docs/assets/js/vendor/jszip.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/docs/assets/js/vendor/less.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/docs/assets/js/vendor/uglify.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/docs/dist/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/docs/dist/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/docs/dist/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/docs/dist/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/docs/dist/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/js/tests/unit/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/js/tests/unit/affix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/js/tests/unit/phantom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/js/tests/vendor/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/js/tests/visual/affix-with-sticky-footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/bootstrap/js/tests/visual/affix.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/.hound.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/CNAME" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/Gemfile.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/ISSUE_TEMPLATE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/_config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/dist/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/dist/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/dist/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/dist/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/dist/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/dist/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/dist/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/dist/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/dist/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/dist/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/dist/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_data/browser-bugs.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_data/browser-features.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_data/core-team.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_data/glyphicons.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_data/sass-team.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_data/showcase.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_data/translations.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/ads.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/components/alerts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/components/badges.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/components/breadcrumbs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/components/button-dropdowns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/components/button-groups.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/components/dropdowns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/components/glyphicons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/components/input-groups.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/components/jumbotron.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/components/labels.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/components/list-group.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/components/media.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/components/navbar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/components/navs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/components/page-header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/components/pagination.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/components/panels.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/components/progress-bars.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/components/responsive-embed.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/components/thumbnails.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/components/wells.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/css/buttons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/css/code.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/css/forms.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/css/grid.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/css/helpers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/css/images.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/css/less.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/css/overview.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/css/responsive-utilities.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/css/sass.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/css/tables.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/css/type.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/customizer-variables.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/getting-started/accessibility.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/getting-started/browser-device-support.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/getting-started/community.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/getting-started/disabling-responsiveness.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/getting-started/download.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/getting-started/examples.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/getting-started/grunt.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/getting-started/license.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/getting-started/template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/getting-started/third-party-support.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/getting-started/tools.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/getting-started/translations.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/getting-started/whats-included.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/js/affix.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/js/alerts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/js/buttons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/js/carousel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/js/collapse.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/js/dropdowns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/js/modal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/js/overview.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/js/popovers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/js/scrollspy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/js/tabs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/js/tooltips.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/js/transitions.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/nav/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/nav/components.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/nav/css.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/nav/customize.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/nav/getting-started.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/nav/javascript.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/nav/main.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_includes/nav/migration.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_layouts/default.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_layouts/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_plugins/bridge.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_plugins/bugify.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_pug/customizer-nav.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/_pug/customizer-variables.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/brand/bootstrap-outline.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/brand/bootstrap-punchout.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/brand/bootstrap-solid.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/css/docs.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/css/docs.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/css/ie10-viewport-bug-workaround.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/css/src/docs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/css/src/pygments-manni.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/js/customize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/js/docs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/js/ie-emulation-modes-warning.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/js/ie10-viewport-bug-workaround.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/js/ie8-responsive-file-warning.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/js/raw-files.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/js/src/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/js/src/customizer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/js/vendor/Blob.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/js/vendor/FileSaver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/js/vendor/ZeroClipboard.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/js/vendor/anchor.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/js/vendor/autoprefixer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/js/vendor/holder.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/js/vendor/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/js/vendor/jszip.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/js/vendor/less.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/assets/js/vendor/uglify.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/browser-bugs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/components.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/css.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/customize.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/dist/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/dist/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/dist/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/dist/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/dist/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/dist/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/dist/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/blog/blog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/blog/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/carousel/carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/carousel/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/cover/cover.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/cover/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/dashboard/dashboard.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/dashboard/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/grid/grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/grid/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/jumbotron-narrow/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/jumbotron-narrow/jumbotron-narrow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/jumbotron/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/jumbotron/jumbotron.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/justified-nav/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/justified-nav/justified-nav.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/navbar-fixed-top/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/navbar-fixed-top/navbar-fixed-top.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/navbar-static-top/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/navbar-static-top/navbar-static-top.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/navbar/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/navbar/navbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/non-responsive/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/non-responsive/non-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/offcanvas/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/offcanvas/offcanvas.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/offcanvas/offcanvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/signin/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/signin/signin.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/starter-template/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/starter-template/starter-template.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/sticky-footer-navbar/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/sticky-footer-navbar/sticky-footer-navbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/sticky-footer/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/sticky-footer/sticky-footer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/theme/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/theme/theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/tooltip-viewport/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/tooltip-viewport/tooltip-viewport.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/examples/tooltip-viewport/tooltip-viewport.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/getting-started.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/javascript.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/migration.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/docs/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/grunt/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/grunt/bs-commonjs-generator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/grunt/bs-glyphicons-data-generator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/grunt/bs-lessdoc-parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/grunt/bs-raw-files-generator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/grunt/change-version.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/grunt/configBridge.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/grunt/npm-shrinkwrap.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/grunt/sauce_browsers.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/.jscsrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/affix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/popover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/unit/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/unit/affix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/unit/alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/unit/button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/unit/carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/unit/collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/unit/dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/unit/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/unit/phantom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/unit/popover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/unit/scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/unit/tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/unit/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/vendor/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/vendor/qunit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/vendor/qunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/visual/affix-with-sticky-footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/visual/affix.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/visual/alert.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/visual/button.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/visual/carousel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/visual/collapse.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/visual/dropdown.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/visual/modal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/visual/popover.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/visual/scrollspy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/visual/tab.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tests/visual/tooltip.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/js/transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/.csscomb.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/.csslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/badges.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/button-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/component-animations.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/dropdowns.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/glyphicons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/input-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/jumbotron.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/media.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/background-variant.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/border-radius.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/center-block.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/clearfix.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/gradients.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/grid-framework.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/hide-text.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/image.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/nav-divider.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/nav-vertical-align.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/opacity.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/progress-bar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/reset-filter.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/reset-text.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/resize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/responsive-visibility.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/size.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/tab-focus.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/table-row.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/text-emphasis.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/text-overflow.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/mixins/vendor-prefixes.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/modals.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/normalize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/pager.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/popovers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/progress-bars.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/responsive-embed.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/responsive-utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/thumbnails.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/less/wells.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/nuget/MyGet.ps1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/nuget/bootstrap.less.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/nuget/bootstrap.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/package.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myGoWebApp/bootstrap-3.3.7/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myjson/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myjson/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myjson/.idea/myjson.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myjson/.idea/workspace.xml" />
+    <list default="true" id="116b792b-d393-4d38-8e8a-700a53f6a936" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AWS-Service/cloundsearch/aws_cloudsearch.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/vue/vue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/vue/vue.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoProWeb/static/vuejs_bootstrap_demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/klook_recomm_app.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/klook_recomm_web.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/tempDemo.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/golang-webapp-guide" afterPath="$PROJECT_DIR$/golang-webapp-guide" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/GOPATH__demo_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/GOPATH__demo_.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoProWeb/main.go" afterPath="$PROJECT_DIR$/GoProWeb/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myjson/.idea/myjson.iml" afterPath="$PROJECT_DIR$/myjson/.idea/myjson.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myjson/myjsondemo.go" afterPath="$PROJECT_DIR$/myjson/myjsondemo.go" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -435,104 +36,106 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GoProWeb/static/index.html">
+      <file leaf-file-name="aws_cloudsearch.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AWS-Service/cloundsearch/aws_cloudsearch.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GoProWeb/static/header.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GoProWeb/static/footer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GoProWeb/static/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sticky-footer-navbar.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GoProWeb/static/sticky-footer-navbar.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GoProWeb/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+            <state relative-caret-position="-390">
+              <caret line="35" column="25" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="35" selection-end-column="25" />
               <folding>
-                <element signature="e#14#66#0" expanded="true" />
+                <element signature="e#16#174#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/golang-webapp-guide/static/server.go">
+      <file leaf-file-name="api.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../github.com/aws/aws-sdk-go/service/cloudsearch/api.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-14">
-              <caret line="30" column="35" lean-forward="false" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+            <state relative-caret-position="167">
+              <caret line="4594" column="5" lean-forward="false" selection-start-line="4594" selection-start-column="5" selection-end-line="4594" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myGoWebApp/main.go">
+      <file leaf-file-name="convert_types.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../github.com/aws/aws-sdk-go/aws/convert_types.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="123" />
+            <state relative-caret-position="75">
+              <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="restful.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myrestful/restful.go">
+      <file leaf-file-name="session.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../github.com/aws/aws-sdk-go/aws/session/session.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-60">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-1431">
+              <caret line="99" column="5" lean-forward="false" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myGoWebApp/main.html">
+      <file leaf-file-name="config.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../github.com/aws/aws-sdk-go/aws/config.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            <state relative-caret-position="154">
+              <caret line="232" column="21" lean-forward="false" selection-start-line="232" selection-start-column="21" selection-end-line="232" selection-end-column="21" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="api.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../github.com/aws/aws-sdk-go/service/cloudsearchdomain/api.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2035">
+              <caret line="716" column="14" lean-forward="false" selection-start-line="715" selection-start-column="27" selection-end-line="716" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="service.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../github.com/aws/aws-sdk-go/service/cloudsearchdomain/service.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="93" column="24" lean-forward="false" selection-start-line="93" selection-start-column="24" selection-end-line="93" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="client.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../github.com/aws/aws-sdk-go/aws/client/client.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="77" column="26" lean-forward="false" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="request.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../github.com/aws/aws-sdk-go/aws/request/request.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-97">
+              <caret line="89" column="5" lean-forward="false" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aws_cloudsearchdomain.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AWS-Service/cloudsearchdomain/aws_cloudsearchdomain.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="55" column="59" lean-forward="true" selection-start-line="55" selection-start-column="59" selection-end-line="55" selection-end-column="59" />
+              <folding>
+                <element signature="e#16#225#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -542,9 +145,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go Application" />
         <option value="Go File" />
         <option value="HTML File" />
+        <option value="Go Application" />
       </list>
     </option>
   </component>
@@ -558,6 +161,9 @@
       <find>peri</find>
       <find>perio</find>
       <find>period</find>
+      <find>23</find>
+      <find>Vue.config</find>
+      <find>country-codes.csv_79</find>
     </findStrings>
     <dirStrings>
       <dir>/usr/local/Cellar/go/1.8.1/libexec/src/html/template</dir>
@@ -589,10 +195,19 @@
         <option value="$PROJECT_DIR$/golang-webapp-guide/static/server.go" />
         <option value="$PROJECT_DIR$/GoProWeb/index.html" />
         <option value="$PROJECT_DIR$/GoProWeb/static/footer.html" />
-        <option value="$PROJECT_DIR$/GoProWeb/main.go" />
         <option value="$PROJECT_DIR$/GoProWeb/static/header.html" />
         <option value="$PROJECT_DIR$/GoProWeb/static/index.html" />
         <option value="$PROJECT_DIR$/GoProWeb/static/about.html" />
+        <option value="$PROJECT_DIR$/test/tempDemo.go" />
+        <option value="$PROJECT_DIR$/myjson/myjsondemo.go" />
+        <option value="$PROJECT_DIR$/test/klook_recomm_app.json" />
+        <option value="$PROJECT_DIR$/test/klook_recomm_web.json" />
+        <option value="$PROJECT_DIR$/GoProWeb/main.go" />
+        <option value="$PROJECT_DIR$/GoProWeb/vue/vue.js" />
+        <option value="$PROJECT_DIR$/GoProWeb/static/vuejs_bootstrap_demo.html" />
+        <option value="$PROJECT_DIR$/AWS-Service/aws_cloudsearch.go" />
+        <option value="$PROJECT_DIR$/AWS-Service/cloudsearchdomain/aws_cloudsearch.go" />
+        <option value="$PROJECT_DIR$/AWS-Service/cloudsearchdomain/aws_cloudsearchdomain.go" />
       </list>
     </option>
   </component>
@@ -603,10 +218,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="24" />
-    <option name="y" value="25" />
-    <option name="width" value="1434" />
-    <option name="height" value="779" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="834" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -626,7 +240,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -886,10 +499,6 @@
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docs.min.css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -970,12 +579,62 @@
         </subPane>
       </pane>
       <pane id="Scope">
+        <subPane subId="Changed Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="golangpractise">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
         <subPane subId="Project Files">
           <PATH>
             <PATH_ELEMENT USER_OBJECT="Root">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="External Dependencies">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="/">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Users">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="hunter">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="go">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="github.com">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="golang">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="golangpractise">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
@@ -990,7 +649,11 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="myrestful">
+            <PATH_ELEMENT USER_OBJECT="AWS-Service">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="cloundsearch">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -1004,31 +667,18 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="GoProWeb">
+            <PATH_ELEMENT USER_OBJECT="AWS-Service">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="golangpractise">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="GoProWeb">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="static">
+            <PATH_ELEMENT USER_OBJECT="cloudsearchdomain">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1039,14 +689,21 @@
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
-    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/test/klook_recomm_web.json" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AWS-Service/cloundsearch" />
+      <recent name="$PROJECT_DIR$/GoProWeb/static/vue" />
       <recent name="$PROJECT_DIR$/GoProWeb/static" />
+      <recent name="$PROJECT_DIR$/GoProWeb/vue" />
       <recent name="$PROJECT_DIR$/GoProWeb" />
-      <recent name="$PROJECT_DIR$/myemail" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AWS-Service/cloudsearchdomain" />
+      <recent name="$PROJECT_DIR$/GoProWeb/static" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1061,58 +718,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Single File.GoProWeb">
-    <configuration default="false" name="TestGetUserByID in sqlcrud_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
-      <module name="demo" />
-      <working_directory value="$PROJECT_DIR$/myrestful/sqlcrud" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="golangpractise/myrestful/sqlcrud" />
-      <pattern value="^TestGetUserByID$" />
-      <method />
-    </configuration>
-    <configuration default="false" name="golang-webapp-guide" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
-      <module name="demo" />
-      <working_directory value="$PROJECT_DIR$/golang-webapp-guide/" />
-      <filePath value="$PROJECT_DIR$/golang-webapp-guide/basic/server.go" />
-      <method />
-    </configuration>
-    <configuration default="false" name="go run server.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
-      <module name="demo" />
-      <working_directory value="$PROJECT_DIR$/golang-webapp-guide/static/" />
-      <filePath value="$PROJECT_DIR$/golang-webapp-guide/static/server.go" />
-      <method />
-    </configuration>
-    <configuration default="false" name="go run main.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
-      <module name="demo" />
-      <working_directory value="$PROJECT_DIR$/myGoWebApp/" />
-      <filePath value="$PROJECT_DIR$/myGoWebApp/main.go" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Go Single File.aws_cloudsearchdomain">
     <configuration default="false" name="GoProWeb" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/GoProWeb/" />
       <filePath value="$PROJECT_DIR$/GoProWeb/main.go" />
       <method />
     </configuration>
-    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
+    <configuration default="false" name="go run tempDemo.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
       <module name="demo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/tempDemo.go" />
+      <method />
+    </configuration>
+    <configuration default="false" name="go run myjsondemo.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="demo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/myjson/myjsondemo.go" />
+      <method />
+    </configuration>
+    <configuration default="false" name="aws_cloudsearchdomain" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="demo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/AWS-Service/cloudsearchdomain/aws_cloudsearchdomain.go" />
+      <method />
+    </configuration>
+    <configuration default="false" name="aws_cloudsearch" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="demo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/AWS-Service/cloundsearch/aws_cloudsearch.go" />
       <method />
     </configuration>
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
@@ -1135,50 +769,6 @@
       <kind value="DIRECTORY" />
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
-      <node-interpreter value="project" />
-      <working-dir value="" />
-      <envs />
-      <scope-kind value="ALL" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="demo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="demo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1191,7 +781,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="demo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -1207,24 +796,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <module name="demo" />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -1237,7 +809,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="demo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -1257,7 +828,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="demo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
@@ -1271,19 +841,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Go Single File.mygosmtp" />
-      <item index="1" class="java.lang.String" itemvalue="Go Test.TestGetUserByID in sqlcrud_test.go" />
-      <item index="2" class="java.lang.String" itemvalue="Go Single File.golang-webapp-guide" />
-      <item index="3" class="java.lang.String" itemvalue="Go Single File.go run server.go" />
-      <item index="4" class="java.lang.String" itemvalue="Go Single File.go run main.go" />
-      <item index="5" class="java.lang.String" itemvalue="Go Single File.GoProWeb" />
+      <item index="1" class="java.lang.String" itemvalue="Go Single File.GoProWeb" />
+      <item index="2" class="java.lang.String" itemvalue="Go Single File.go run tempDemo.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Single File.go run myjsondemo.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Single File.aws_cloudsearchdomain" />
+      <item index="5" class="java.lang.String" itemvalue="Go Single File.aws_cloudsearch" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Go Single File.GoProWeb" />
-        <item index="1" class="java.lang.String" itemvalue="Go Single File.go run main.go" />
-        <item index="2" class="java.lang.String" itemvalue="Go Single File.go run server.go" />
-        <item index="3" class="java.lang.String" itemvalue="Go Single File.golang-webapp-guide" />
-        <item index="4" class="java.lang.String" itemvalue="Go Test.TestGetUserByID in sqlcrud_test.go" />
+        <item index="0" class="java.lang.String" itemvalue="Go Single File.aws_cloudsearchdomain" />
+        <item index="1" class="java.lang.String" itemvalue="Go Single File.aws_cloudsearch" />
+        <item index="2" class="java.lang.String" itemvalue="Go Single File.GoProWeb" />
+        <item index="3" class="java.lang.String" itemvalue="Go Single File.go run myjsondemo.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Single File.go run tempDemo.go" />
       </list>
     </recent_temporary>
   </component>
@@ -1340,7 +910,14 @@
       <option name="project" value="LOCAL" />
       <updated>1493815245791</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add golangpractise directory.">
+      <created>1493815538148</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1493815538148</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1351,7 +928,7 @@
       <configuration name="TestGetUserByID in sqlcrud_test.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
   </component>
-  <component name="TodoView" selected-index="4">
+  <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -1361,18 +938,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="24" y="25" width="1434" height="779" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="834" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32896653" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28820962" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20378457" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46797386" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2110626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22557472" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1381,6 +957,8 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1395,184 +973,18 @@
     <MESSAGE value="myGoWebApp: for Web app uses Bootstrap in golang template/statics.&#10;myemail: For smtp uses on email function in Golang." />
     <MESSAGE value="Add another 2 golang-web-app project demo from Github." />
     <MESSAGE value="GoProWeb: It's a good example, successful project that can run the web app ON Bootstrap." />
-    <option name="LAST_COMMIT_MESSAGE" value="GoProWeb: It's a good example, successful project that can run the web app ON Bootstrap." />
+    <MESSAGE value="Add golangpractise directory." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add golangpractise directory." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/myrestful/restful.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#183#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myredis/redis_demo.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myrestful/sqlcrud/sqlcrud_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myrestful/restful.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#183#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myrestful/sqlcrud/sqlcrud_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myredis/redis_demo.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myrestful/sqlcrud/sqlcrud_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myrestful/restful_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myrestful/sqlcrud/sqlcrud.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-          <folding>
-            <marker date="1492741821000" expanded="true" signature="556:593" ph="select id,na... user" />
-            <marker date="1492741821000" expanded="true" signature="1128:1160" ph="select id,na... user" />
-            <marker date="1492741821000" expanded="true" signature="2283:2320" ph="INSERT INTO user... " />
-            <marker date="1492741821000" expanded="true" signature="3132:3159" ph="DELETE FROM " />
-            <marker date="1492741821000" expanded="true" signature="3997:4030" ph="UPDATE user " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/go/1.8.1/libexec/src/sync/waitgroup.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="51" column="21" lean-forward="false" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myemail/myemail.go" />
-    <entry file="file://$PROJECT_DIR$/mymake/mymake.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding>
-            <element signature="e#14#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/go/1.8.1/libexec/src/net/smtp/auth.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="62" column="17" lean-forward="false" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/go/1.8.1/libexec/src/net/smtp/smtp.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4170">
-          <caret line="287" column="32" lean-forward="false" selection-start-line="287" selection-start-column="22" selection-end-line="287" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Go-App-Engine-Bootstrap-Quickstart/setup.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myjson/myjsondemo.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myemail/dosendmail.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-          <folding>
-            <element signature="e#14#68#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myemail/mygosmtp/gosmtpdemo.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding>
-            <element signature="e#14#43#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myemail/libofm/myem.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-          <folding>
-            <element signature="e#16#55#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/golang-webapp-guide/template/server.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/golang-webapp-guide/test/server/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1580,7 +992,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1588,7 +999,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1596,7 +1006,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
           <caret line="4" column="117377" lean-forward="false" selection-start-line="4" selection-start-column="117377" selection-end-line="4" selection-end-column="117377" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1604,7 +1013,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="678">
           <caret line="74" column="19" lean-forward="false" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1612,7 +1020,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1620,7 +1027,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1628,7 +1034,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1">
           <caret line="99" column="5" lean-forward="false" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1636,9 +1041,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="e#11#45#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1646,7 +1048,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="177" column="21" lean-forward="false" selection-start-line="177" selection-start-column="21" selection-end-line="177" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1654,7 +1055,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1662,7 +1062,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1670,7 +1069,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1678,7 +1076,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="46" column="20" lean-forward="false" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1686,7 +1083,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="425" column="5" lean-forward="false" selection-start-line="425" selection-start-column="5" selection-end-line="425" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1694,7 +1090,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
           <caret line="2291" column="5" lean-forward="false" selection-start-line="2291" selection-start-column="5" selection-end-line="2291" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1702,7 +1097,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="129" column="26" lean-forward="true" selection-start-line="129" selection-start-column="26" selection-end-line="129" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1710,7 +1104,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1718,7 +1111,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1726,7 +1118,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1734,15 +1125,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/golang-webapp-guide/static/server.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
+        <state relative-caret-position="345">
           <caret line="30" column="35" lean-forward="false" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1750,57 +1139,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myGoWebApp/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
+        <state relative-caret-position="435">
           <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="123" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GoProWeb/static/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myrestful/restful.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-60">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GoProWeb/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#66#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GoProWeb/static/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GoProWeb/static/index.html">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1808,15 +1160,211 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GoProWeb/static/sticky-footer-navbar.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        <state relative-caret-position="495">
+          <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.8.1/libexec/src/strconv/ftoa.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myjson/myjsondemo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="66" column="50" lean-forward="false" selection-start-line="66" selection-start-column="50" selection-end-line="66" selection-end-column="50" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/tempDemo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/klook_recomm_web.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="152" column="18" lean-forward="false" selection-start-line="152" selection-start-column="18" selection-end-line="152" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/klook_recomm_app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2580">
+          <caret line="172" column="20" lean-forward="false" selection-start-line="172" selection-start-column="20" selection-end-line="172" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoProWeb/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoProWeb/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="e#14#66#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoProWeb/static/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoProWeb/static/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoProWeb/static/vue/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoProWeb/static/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoProWeb/static/vue/vue.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoProWeb/static/vuejs_bootstrap_demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AWS-Service/cloudsearchdomain/aws_cloudsearch.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="90" column="9" lean-forward="true" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/aws/aws-sdk-go/aws/session/session.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1431">
+          <caret line="99" column="5" lean-forward="false" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/aws/aws-sdk-go/service/cloudsearch/api.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="4594" column="5" lean-forward="false" selection-start-line="4594" selection-start-column="5" selection-end-line="4594" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AWS-Service/cloundsearch/aws_cloudsearch.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390">
+          <caret line="35" column="25" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="35" selection-end-column="25" />
+          <folding>
+            <element signature="e#16#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/aws/aws-sdk-go/aws/config.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="232" column="21" lean-forward="false" selection-start-line="232" selection-start-column="21" selection-end-line="232" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/aws/aws-sdk-go/aws/client/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="77" column="26" lean-forward="false" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/aws/aws-sdk-go/service/cloudsearchdomain/service.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="93" column="24" lean-forward="false" selection-start-line="93" selection-start-column="24" selection-end-line="93" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/aws/aws-sdk-go/aws/request/request.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97">
+          <caret line="89" column="5" lean-forward="false" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/aws/aws-sdk-go/aws/convert_types.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/aws/aws-sdk-go/service/cloudsearchdomain/api.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2035">
+          <caret line="716" column="14" lean-forward="false" selection-start-line="715" selection-start-column="27" selection-end-line="716" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AWS-Service/cloudsearchdomain/aws_cloudsearchdomain.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="55" column="59" lean-forward="true" selection-start-line="55" selection-start-column="59" selection-end-line="55" selection-end-column="59" />
+          <folding>
+            <element signature="e#16#225#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
